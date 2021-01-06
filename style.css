@@ -1,0 +1,23 @@
+h1{
+    color:rgb(255, 238, 0)
+    
+}
+
+h2{
+    color:red
+}
+.header{
+    
+    background-color: rgb(255, 0, 0);
+    display:flex;
+    justify-content:space-between
+}
+.item{
+    width: 310px;
+    text-align: left;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
